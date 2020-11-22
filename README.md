@@ -1,6 +1,9 @@
+
+this is an Addon to https://github.com/sharandac/My-TTGO-Watch
+
 ### Replace "note" with Analog Watchface
 
-in "src/gui/mainbar/setup*tile/bluetooth*settings/bluetooth_settings.cpp"
+in "src/gui/mainbar/setup_tile/bluetooth_settings/bluetooth_settings.cpp"
 
 Line 34:
 replace 
