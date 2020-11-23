@@ -1,9 +1,11 @@
 /****************************************************************************
- *   Tu May 22 21:23:51 2020
- *   Copyright  2020  Dirk Brosswick
- *   Email: dirk.brosswick@googlemail.com
+ *  watchface_tile.h
+ *  Neuroplant  11/2020
+ *  Email: m.roych@gmail.com
+ *
+ *
+ *  Based on the work of Dirk Brosswick,  sharandac / My-TTGO-Watch  note-tile"
  ****************************************************************************/
- 
 /*
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -19,8 +21,8 @@
  *  along with this program; if not, write to the Free Software
  *  Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
  */
-#ifndef _NOTE_TILE_H
-    #define _NOTE_TILE_H
+#ifndef _WATCHFACE_TILE_H
+    #define _WATCHFACE_TILE_H
 
     #include <TTGO.h>
 	
@@ -55,4 +57,4 @@
 	void watchface_tile_update_task( lv_task_t * task ) ;
 
 
-#endif // _NOTE_TILE_H
+#endif // _WATCHFACE_TILE_H

@@ -1,7 +1,10 @@
 /****************************************************************************
- *   Tu May 22 21:23:51 2020
- *   Copyright  2020  Dirk Brosswick
- *   Email: dirk.brosswick@googlemail.com
+ *  watchface_tile.cpp
+ *  Neuroplant  11/2020
+ *  Email: m.roych@gmail.com
+ *
+ *
+ *  Based on the work of Dirk Brosswick,  sharandac / My-TTGO-Watch  note-tile"
  ****************************************************************************/
 
 /*
